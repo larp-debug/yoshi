@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<title>Sicherheits-Hinweis</title>
+</head>
+<body>
+<h1>Don't open random links</h1>
+</body>
+</html>
